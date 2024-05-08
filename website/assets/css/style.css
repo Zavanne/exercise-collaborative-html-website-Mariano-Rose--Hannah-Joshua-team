@@ -1,7 +1,18 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
 
 .text-over-image {
     width: 98%;
 }
+
+ @media (max-width: 576px) {
+    .h1-responsive {
+        font-size: 3em; /* Adjust font size for smaller screens */
+        top: 25%; /* Adjust top position */
+    }
+    .h2-responsive {
+        font-size: 2em; /* Adjust font size for smaller screens */
+        top: 60%; /* Adjust top position */
+    }
+} 

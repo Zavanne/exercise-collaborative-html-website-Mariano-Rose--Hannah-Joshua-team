@@ -1,8 +1,7 @@
-
 <header class="jumbotron">
-    <div class="container" style="padding-top: 100px; padding-bottom: 50px;">
-        <div class="row align-items-start border-top py-4">
-            <div class="col-md-8 pt-5">
+    <div class="container" style="margin-top: 60px; padding-top: 70px; border-top: 1px solid; border-color: rgba(173, 173, 173, 0.9);">
+        <div class="row align-items-start">
+            <div class="col-md-8">
                 <h1>This First Heading <span class="text-muted">Will Catch Your Eye</span></h1>
                 <p class="text-left">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
@@ -11,8 +10,8 @@
                     Lorem ipsum dolor sit amet, aconsectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                 </p>
             </div>
-            <div class="col-md-4">
-                <img src="https://www.lifewire.com/thmb/yrj047KsBf6-GI0iFHAKyo_ZEOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Physicalkeyboard_TarikKizilkaya_GettyImages-160948868-6eb87698bb2f4ece9bfca400ddbca30f.jpg" alt="Circular Image" class="rounded-circle" style="width: 350px; height: 350px; margin-right: -15px; padding-top: 10px; padding-bottom: 10px;">
+            <div class="col-md-4 col-lg-3">
+                <img src="/website/assets/img/1.jpg" alt="Circular Image" class="rounded-circle" style="width: 300px; height: 330px; margin-right: -15px; padding-top: 10px; padding-bottom: 10px;">
             </div>
         </div>
     </div>
